@@ -9,4 +9,5 @@ public class PurchaseResponseDto {
 
 	private String message;
 	private Long invoiceNumber;
+	private double price;
 }

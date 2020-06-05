@@ -9,4 +9,5 @@ public class ProductPurchaseDto {
 	private int quantity;
 	private int currentQuantity;
 	private Long productId;
+	private double productPrice;
 }
